@@ -129,7 +129,7 @@
         <div class="profile-info">
           <div class="info-section">
             <h3>Username</h3>
-            <p>orimkhoirul</p>
+            <p>orimkhoirul23</p>
           </div>
           <div class="info-section">
             <h3>Full Name</h3>
